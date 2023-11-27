@@ -46,7 +46,16 @@
 
 
 
-<style>
+<style lang="scss">
+
+@use './assets/scss/vars' as *;
+
+body {
+
+    background-color: $black;
+    color: white;
+}
+
 
 </style>
 

@@ -51,14 +51,22 @@
 
     header {
 
+        height: 15vh;
         padding: 20px;
 
         display: flex;
         align-items: center;
 
+
         .title {
             display: flex;
             align-items: center;
+
+
+            i {
+                transform: translatey(-3px);
+            }
+
         }
 
         h3 {
@@ -67,6 +75,7 @@
 
         .navbar {
             margin: 0 auto;
+            transform: translateY(4px);
 
             ul {
                 display: flex;
@@ -76,12 +85,12 @@
 
             li {
                 list-style-type: none;
-                margin-right: 15px;
+                margin-right: 40px;
             }
 
             a {
                 text-decoration: none;
-                color: black;
+                color: white;
                 font-size: 18px;
             }
 
