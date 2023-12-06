@@ -51,7 +51,7 @@
 
     header {
 
-        height: 15vh;
+        height: 10vh;
         padding: 20px;
 
         display: flex;
@@ -84,12 +84,10 @@
             }
 
             li {
-                list-style-type: none;
                 margin-right: 40px;
             }
 
             a {
-                text-decoration: none;
                 color: white;
                 font-size: 18px;
             }

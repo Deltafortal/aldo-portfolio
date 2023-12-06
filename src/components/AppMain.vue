@@ -39,10 +39,12 @@
        <ProjectsSection />
        
        
-       <!-- Contacts -->
-       <ContactsSection />
        
     </main>
+        
+    <!-- Contacts -->
+    <ContactsSection />
+
 
 </template>
 
@@ -55,7 +57,7 @@
 
 
     main {
-        background-color: $primaryCol;
+        background-color: $black;
         
     }
 

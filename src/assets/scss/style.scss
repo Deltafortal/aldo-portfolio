@@ -14,3 +14,57 @@
     box-sizing: border-box;
 
 }
+
+h1 {
+    font-size: 54px;
+}
+
+
+h2 {
+    font-size: 53px;
+}
+
+
+section {
+    height: 100vh;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/*************** General Media Query  ****************/
+
+@media (min-width: 576px) {
+    h1 {
+        font-size: 70px;
+    }
+}
+    
+        
+    
+    @media (min-width: 768px) {
+    h1 {
+        font-size: 88px; 
+    }
+}
+    
+    
+@media (min-width: 992px) {
+    h1 {
+        font-size: 110px; 
+    }
+}
+    
+    
+    
+@media (min-width: 1200px) {
+    h1 {
+        font-size: 130px; 
+    }
+}
