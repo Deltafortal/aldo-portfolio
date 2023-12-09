@@ -25,8 +25,8 @@
             <div class="title">
                 <h1>Aldo Lucchetta</h1>
                 <h3 class="text-center">Full Stack Web Developer</h3>
-                <div class="sun">
-                </div>
+            </div>
+            <div class="sun">
             </div>
         </div>
    </section>

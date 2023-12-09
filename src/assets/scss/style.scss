@@ -15,13 +15,22 @@
 
 }
 
+body {
+    overflow-x: hidden;
+}
+
 h1 {
     font-size: 54px;
 }
 
 
 h2 {
+    color: $blue;
     font-size: 53px;
+}
+
+h3 {
+    color: $green;
 }
 
 

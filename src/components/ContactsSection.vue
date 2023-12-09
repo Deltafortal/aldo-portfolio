@@ -143,6 +143,10 @@
             a {
                 font-size: 20px;
                 color: white;
+
+                &:hover {
+                    color: $blue;
+                }
             }
 
             h5 {
