@@ -25,13 +25,14 @@
 
 <template>
   
-
-  <!-- Header -->
-  <AppHeader />
-
-
-  <!-- Jumbotron -->
-  <AppJumbotron />
+  <div class="background">
+    <!-- Header -->
+    <AppHeader />
+    
+    
+    <!-- Jumbotron -->
+    <AppJumbotron />
+  </div>
 
     
   <!-- Main -->
@@ -50,6 +51,11 @@ body {
 
     background-color: $black;
     color: white;
+}
+
+
+.background {
+  background-image: url("/img/background.jpeg");
 }
 
 
