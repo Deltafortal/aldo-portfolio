@@ -64,8 +64,8 @@
             position: absolute;
             top: 50px;
             right: 35px;
-            width: 100px;
-            height: 100px;
+            width: 150px;
+            height: 150px;
             background-color: $blue;
             border-radius: 50%;
             box-shadow: 0 0 20px $blue;

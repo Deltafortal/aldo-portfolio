@@ -26,16 +26,16 @@
 <template>
   
 
-    <!-- Header -->
-    <AppHeader />
+  <!-- Header -->
+  <AppHeader />
 
 
-    <!-- Jumbotron -->
-    <AppJumbotron />
+  <!-- Jumbotron -->
+  <AppJumbotron />
 
     
-    <!-- Main -->
-    <AppMain />
+  <!-- Main -->
+  <AppMain />
 
 </template>
 

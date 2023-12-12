@@ -8,7 +8,7 @@
                     id: 1,
                     name: 'BoolBnb',
                     description: 'Riproduzione fedele del famoso sito di AirBnb, realizzato con VueJs per il lato frontend e Laravel per il backend.',
-                    image: 'BoolBnb.jpeg',
+                    image: 'BoolBnb.png',
                 },
                 {
                     id: 2,

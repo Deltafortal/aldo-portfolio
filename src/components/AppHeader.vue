@@ -38,10 +38,10 @@
         <div class="hamburgher-nav d-md-none" :data-visible="this.visibility">
             <ul>
                 <div class="toggle" @click="toggleMenu"><i class="bi bi-list d-md-none"></i></div>
-                <li><a href="" aria-hidden="true">00 <span>Home</span></a></li>
-                <li><a href="" aria-hidden="true">01 <span>Skills</span></a></li>
-                <li><a href="" aria-hidden="true">02 <span>Projects</span></a></li>
-                <li><a href="" aria-hidden="true">03 <span>Contacts</span></a></li>
+                <li><a href="#jumbotron" aria-hidden="true">00 <span>Home</span></a></li>
+                <li><a href="#skills" aria-hidden="true">01 <span>Skills</span></a></li>
+                <li><a href="#projects" aria-hidden="true">02 <span>Projects</span></a></li>
+                <li><a href="#contacts" aria-hidden="true">03 <span>Contacts</span></a></li>
             </ul>
         </div>
 
@@ -57,10 +57,10 @@
         <!-- Navbar -->
         <div class="navbar d-md-block">
             <ul>
-                <li><a href="" aria-hidden="true">00 <span>Home</span></a></li>
-                <li><a href="" aria-hidden="true">01 <span>Skills</span></a></li>
-                <li><a href="" aria-hidden="true">02 <span>Projects</span></a></li>
-                <li><a href="" aria-hidden="true">03 <span>Contacts</span></a></li>
+                <li><a href="#jumbotron" aria-hidden="true"><span>Home</span></a></li>
+                <li><a href="#skills" aria-hidden="true"><span>Skills</span></a></li>
+                <li><a href="#projects" aria-hidden="true"><span>Projects</span></a></li>
+                <li><a href="#contacts" aria-hidden="true"><span>Contacts</span></a></li>
             </ul>
         </div>
 
@@ -104,6 +104,10 @@
 
         h3 {
             margin-left: 20px;
+
+            a {
+                font-size: 40px;
+            }
         }
 
         .navbar {
@@ -194,7 +198,7 @@
 
             .hamburgher-nav {
                 background: none;
-               backdrop-filter: none;
+                backdrop-filter: none;
             }
         }
     }

@@ -42,8 +42,30 @@ li {
     list-style-type: none;
 }
 
+
+.navbar li {
+
+    &::after {
+        content: '';
+        width: 0%;
+        height: 3px;
+        background-color: $green;
+        display: block;
+        margin: auto;
+        transition: 0.5s;
+    }
+
+    &:hover::after {
+        width: 100%;
+    }
+}
+
 a {
     text-decoration: none;
+
+    span {
+        font-size: 20px;
+    }
 }
 
 
