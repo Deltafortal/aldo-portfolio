@@ -12,7 +12,6 @@
         methods: {
 
             toggleMenu() {
-                console.log("hey");
                 this.visibility = !this.visibility
             }
         }
