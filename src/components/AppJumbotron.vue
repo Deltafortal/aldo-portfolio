@@ -70,8 +70,8 @@
             position: absolute;
             top: 50px;
             right: 35px;
-            width: 150px;
-            height: 150px;
+            width: 130px;
+            height: 130px;
             background-color: $blue;
             border-radius: 50%;
             box-shadow: 0 0 20px $blue;
