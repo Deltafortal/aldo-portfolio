@@ -57,7 +57,7 @@
 
 
     #skills {
-
+        
         margin-bottom: 200px;
 
         h2 {

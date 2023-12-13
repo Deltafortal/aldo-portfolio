@@ -34,10 +34,10 @@
     <AppJumbotron />
   </div>
 
-    
+
   <!-- Main -->
   <AppMain />
-
+    
 </template>
 
 
@@ -55,10 +55,8 @@ body {
 
 
 .background {
-  background-image: url("/img/background.jpeg");
+  background: linear-gradient(0deg, rgba(22,22,22,1) 0%, rgba(126,254,251,0.2) 1%, rgba(22,22,22,0.5) 68%);
 }
-
-
 
 //Scrollbar
 ::-webkit-scrollbar {

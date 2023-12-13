@@ -59,11 +59,11 @@
             width: 100%;
             height: 100%;
 
-            .title {
+            /*.title {
                 background-color: rgba(0, 0, 0, 0.5);
                 padding: 150px;
                 border-radius: 20px;
-            }
+            } */
         }
 
         .sun {
