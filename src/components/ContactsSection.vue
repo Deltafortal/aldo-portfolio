@@ -29,8 +29,8 @@
                 <div class="title">
                     <h3>Aperto a tutte le opportunità</h3>
                     <p>
-                        Hai una proposta per me? sono pronto ad ascoltarla!
-                        inviami pure un'email oppure un messaggio.
+                        Hai una proposta per me? Sono pronto ad ascoltarla!
+                        Inviami un'email o un messaggio.
                     </p>
                 </div>
 
@@ -75,7 +75,7 @@
                         <li>Frontend Development con VueJS</li>
                         <li>Backend Development con Java</li>
                         <li>C++ e altri linguaggi di programmazione</li>
-                        <li>Videogames Development come passatempo</li>
+                        <li>Videogames Development</li>
                     </ul>
                 </div>
             </div>
@@ -131,7 +131,6 @@
             display: flex;
             flex-direction: column;
             justify-content: space-around;
-
         }
 
         .contacts-side {

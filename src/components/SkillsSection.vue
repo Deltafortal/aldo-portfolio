@@ -28,8 +28,8 @@
         <div class="content text-center">
             <h2>Le mie competenze</h2>
             <p>
-                Queste sono le tecnologie, i linguaggi di programmazione e le conoscienze che ho acquisito durante il mio percorso, 
-                tutto quello che non c'è invece, posso impararlo <i class="bi bi-emoji-laughing"></i>
+                Queste sono le tecnologie e le competenze che ho acquisito durante il mio percorso. 
+                Tutto quello che non c'è, invece, posso impararlo!
             </p>
 
             <div class="skill-frame">

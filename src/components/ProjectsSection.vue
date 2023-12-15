@@ -19,7 +19,7 @@
                 {
                     id: 3,
                     name: 'BeholderFlix',
-                    description: 'Riproduzione di Netflix ispirandosi al famoso mostro di Dungeon and Dragons',
+                    description: 'Riproduzione di Netflix ispirata all\'iconico mostro di Dungeon and Dragons.',
                     image: 'BeholderFlix.png'
                 }
                 
