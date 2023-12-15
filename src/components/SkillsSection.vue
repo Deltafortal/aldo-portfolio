@@ -35,7 +35,7 @@
             <div class="skill-frame">
 
                 <div class="right-frame d-none d-sm-block">
-                    <img src="/img/ComputerBoy.jpg" alt="My Avatar">
+                    <img src="/img/ComputerBoy.jpg" alt="My Avatar" loading="lazy">
                 </div>
 
                 <div class="skill-logos">

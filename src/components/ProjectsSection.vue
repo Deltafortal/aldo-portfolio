@@ -79,7 +79,7 @@
                                 <i class="bi bi-chevron-left"></i>
                             </div>
 
-                            <img :src="'/img/projects/' + project.image" :alt="project.name" @click="showProjectDetails(project)" />
+                            <img :src="'/img/projects/' + project.image" :alt="project.name" @click="showProjectDetails(project)" loading="lazy" />
 
                             <div class="arrow right-arrow" @click="nextProject">
                                 <i class="bi bi-chevron-right"></i>
