@@ -189,7 +189,7 @@
                 display: flex;
                 align-items: center;
                 justify-content: center;
-                background-image: url("./img/me.png");
+                background-image: url("/img/me.png");
                 background-size: cover;
                 background-position-x: -25px;
             }
