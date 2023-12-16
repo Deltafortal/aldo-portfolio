@@ -37,10 +37,10 @@
         <div class="hamburgher-nav d-md-none" :data-visible="this.visibility">
             <ul>
                 <div class="toggle" @click="toggleMenu"><i class="bi bi-list d-md-none"></i></div>
-                <li><a href="#jumbotron" aria-hidden="true">00 <span>Home</span></a></li>
-                <li><a href="#skills" aria-hidden="true">01 <span>Competenze</span></a></li>
-                <li><a href="#projects" aria-hidden="true">02 <span>Progetti</span></a></li>
-                <li><a href="#contacts" aria-hidden="true">03 <span>Contatti</span></a></li>
+                <li><a href="#jumbotron" aria-hidden="true"><span>Home</span></a></li>
+                <li><a href="#skills" aria-hidden="true"><span>Competenze</span></a></li>
+                <li><a href="#projects" aria-hidden="true"><span>Progetti</span></a></li>
+                <li><a href="#contacts" aria-hidden="true"><span>Contatti</span></a></li>
             </ul>
         </div>
 
